@@ -4,11 +4,9 @@ title: I defended my thesis!
 categories: [Announcements, Research]
 ---
 
-Friends,
+Friends, today I am excited to announce that I have successfully defended my thesis! First, gratitude to my mentor, Dr. Jenn Bernstein.
 
-Today I am excited to announce that I have successfully defended my thesis!
-
-First, gratitude to my mentor, Dr. Jenn Bernstein! Pending some final edits and administrative things, I will soon have my MS in GIS. It's official: I'm a mapmaker. My thesis is titled _Walking to the Longhouse: A deep map of the Central New York Military Tract and its indigenous history_.
+Pending some final edits and administrative things, I will soon have my MS in GIS. It's official: I'm a mapmaker. My thesis is titled _Walking to the Longhouse: A deep map of the Central New York Military Tract and its indigenous history_.
 
 Here's the abstract:
 
