@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My review of _Radical Cartographies_
+title: My review of *Radical Cartographies*
 categories: [Publications]
 ---
 
