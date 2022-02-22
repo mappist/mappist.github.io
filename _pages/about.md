@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Caleb Winebrenner.
 
-I'm a [polymath](https://en.wikipedia.org/wiki/Polymath) -- that means I've done several things with a lot of depth. There's a few things I'm especially passionate about, which I'll talk about here.
+I'm a [polymath](https://en.wikipedia.org/wiki/Polymath) -- that means I've done several things with a lot of depth. Two of my big passions are telling stories and making maps. My work in one area is informed by my work in the other, and when I can I love to explore the overlap between the two.
 
 ## Storytelling
 
