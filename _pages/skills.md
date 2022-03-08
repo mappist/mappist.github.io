@@ -8,5 +8,5 @@ In the service of providing the best possible work for the projects I'm engaged 
 
 ### SQL / PostGIS
 
-[X] [W3 Schools SQL Tutorial](https://www.w3schools.com/sql/)
-[ ] [SQLTutorial.org](https://www.sqltutorial.org)
+- [X] [W3 Schools SQL Tutorial](https://www.w3schools.com/sql/)
+- [ ] [SQLTutorial.org](https://www.sqltutorial.org)
