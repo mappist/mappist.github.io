@@ -1,40 +1,30 @@
-// Font Imports
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&family=Open+Sans:wght@400;600;700&display=swap');
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&family=Open+Sans&display=swap');
 
-// Font Variables
-$font-body: 'Open Sans', sans-serif;
-$font-header: 'IM Fell English', serif;
-
-// Base Typography
+// Base body styles
 body {
-  font-family: $font-body;
-  font-size: 16px;
+  font-family: 'Open Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 1rem;
   line-height: 1.6;
   color: #222;
   background-color: #fff;
-  margin: 0;
-  padding: 0;
 }
 
-// Headings
-h1, h2, h3, h4, h5, h6 {
-  font-family: $font-header;
-  font-weight: normal;
-  color: #111;
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
+// Headings in posts and pages
+.post h1,
+.page h1 {
+  font-family: 'IM Fell English', Georgia, serif;
+  text-align: center;
+  font-weight: bold;
+  font-kerning: normal;
 }
 
-h1 { font-size: 2.25rem; }
-h2 { font-size: 1.75rem; }
-h3 { font-size: 1.5rem; }
+// You can add more heading styles if needed
+h2, h3, h4, h5, h6 {
+  font-family: 'IM Fell English', Georgia, serif;
+}
 
-// Blockquote Styling
-blockquote {
-  font-family: $font-header;
-  font-style: italic;
-  border-left: 4px solid #ccc;
-  margin: 1em 0;
-  padding-left: 1em;
-  color: #444;
+// Optional: Paragraphs
+p {
+  font-family: 'Open Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
