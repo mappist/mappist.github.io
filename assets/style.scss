@@ -1,9 +1,13 @@
-/* Import fonts from Google Fonts */
+// Font Imports
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&family=Open+Sans:wght@400;600;700&display=swap');
 
-/* Base font for body text */
+// Font Variables
+$font-body: 'Open Sans', sans-serif;
+$font-header: 'IM Fell English', serif;
+
+// Base Typography
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: $font-body;
   font-size: 16px;
   line-height: 1.6;
   color: #222;
@@ -12,31 +16,22 @@ body {
   padding: 0;
 }
 
-/* Headings use IM Fell English */
+// Headings
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'IM Fell English', serif;
+  font-family: $font-header;
   font-weight: normal;
   color: #111;
   margin-top: 1.5em;
   margin-bottom: 0.5em;
 }
 
-/* Optional: slightly style headers for feel */
-h1 {
-  font-size: 2.25rem;
-}
+h1 { font-size: 2.25rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.5rem; }
 
-h2 {
-  font-size: 1.75rem;
-}
-
-h3 {
-  font-size: 1.5rem;
-}
-
-/* Optional: blockquotes or ephemera-style notes */
+// Blockquote Styling
 blockquote {
-  font-family: 'IM Fell English', serif;
+  font-family: $font-header;
   font-style: italic;
   border-left: 4px solid #ccc;
   margin: 1em 0;
